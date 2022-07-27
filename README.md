@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer
 --------------------
-<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png"><img src="https://www.etondigital.com/wp-content/uploads/2019/05/laravel-blog.png"  alt="Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)" style="max-width: 100%;"></a>
+<a href="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" rel="nofollow"><img src="https://camo.githubusercontent.com/562c23b00082148d2ba28b0fc16d6637e24fc87767882d7fcb7b4bb93e59f6a0/68747470733a2f2f7777772e65746f6e6469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30352f6c61726176656c2d626c6f672e706e67" alt="Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)" style="width: 600px;max-width: 100%;margin: auto;display: block;" data-canonical-src="https://www.etondigital.com/wp-content/uploads/2019/05/laravel-blog.png"></a>
 
 Hi for all I’m glad that you checked my CV. I am graduated from FCIS -2021. I have been in Backend Since 2020. I have been cooperated with several web development companies, I am most experienced with PHP and Laravel Framework, I’m very talented with proven records in Back-end technologies like ( PHP, Laravel, WordPress, MYSQL, mongodb, vue-js,React-js, Ajax, API, MVC, Solid Principles, Design Patterns, Algorithms, Data Structure, ProblemSolving ).
 
