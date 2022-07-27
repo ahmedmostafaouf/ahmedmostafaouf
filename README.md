@@ -7,7 +7,7 @@ Full Stack Developer
 
 Hi for all I’m glad that you checked my CV. I am graduated from FCIS -2021. I have been in Backend Since 2020. I have been cooperated with several web development companies, I am most experienced with PHP and Laravel Framework, I’m very talented with proven records in Back-end technologies like ( PHP, Laravel, WordPress, MYSQL, mongodb, vue-js,React-js, Ajax, API, MVC, Solid Principles, Design Patterns, Algorithms, Data Structure, ProblemSolving ).
 
-* 🌍  I'm based in Mansoura, Egypt
+* 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [a7med.mostafa9900@gmail.com](mailto:a7med.mostafa9900@gmail.com)
 * 🚀  I'm currently working on [Grand Community](http://pro.grand-community.com/)
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects
